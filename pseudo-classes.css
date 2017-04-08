@@ -1,0 +1,12 @@
+.block {
+	display: inline;
+}
+.inline {
+	display: block;
+	border: 1px solid red;
+	margin: 25px;
+}
+.n-child
+	section:nth-of-type(even){
+	border: 1px solid blue;
+}
